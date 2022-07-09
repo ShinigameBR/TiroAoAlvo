@@ -1,0 +1,16 @@
+#cenario {
+  height: 600px;
+  width: 800px;
+  margin: auto;
+  position: relative;
+  background-color: aqua;
+}
+
+#alvo {
+  top: 0;
+  left: 0;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: red;
+}
